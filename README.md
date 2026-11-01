@@ -2,14 +2,13 @@
 
 # Hi, I'm Jiayi 👋
 
-**AI Student · Developer · Building Things That Matter**
+**AI Student · Learning to Code · Building Real Projects**
 
-人工智能专业在读，持续学习编程、算法与软件开发。  
+人工智能专业在读，正在学习 Python、C 语言、数据结构与算法。  
 喜欢把想法做成真正可以运行、可以使用的产品。
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 </div>
@@ -34,9 +33,10 @@
 
 ## 🛠️ Tech & Interests
 
-**Languages:** Python · C · JavaScript  
-**Tools & Frameworks:** Flet · SQLite · Git / GitHub · 微信小程序开发  
-**Learning:** 数据结构与算法 · 人工智能 · Android 应用开发
+**Currently Learning:** Python · C · 数据结构与算法  
+**Project Experience:** Flet · SQLite · Git / GitHub · Android 应用开发 · 微信小程序协作开发  
+
+> 拾光小程序的开源项目包含 JavaScript 代码，但这不代表我本人已经学习或掌握 JavaScript。
 
 ---
 
