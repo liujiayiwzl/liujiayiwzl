@@ -36,8 +36,6 @@
 **Currently Learning:** Python · C · 数据结构与算法  
 **Project Experience:** Flet · SQLite · Git / GitHub · Android 应用开发 · 微信小程序协作开发  
 
-> 拾光小程序的开源项目包含 JavaScript 代码，但这不代表我本人已经学习或掌握 JavaScript。
-
 ---
 
 <div align="center">
